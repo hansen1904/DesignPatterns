@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Hansen
+ *
+ */
+module DesignPatternsCollection {
+}
