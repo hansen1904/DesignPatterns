@@ -6,4 +6,5 @@
  *
  */
 module DesignPatternsCollection {
+	requires jdk.compiler;
 }
